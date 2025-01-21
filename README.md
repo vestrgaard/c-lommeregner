@@ -1,1 +1,2 @@
 # c-lommeregner
+Rasmus Vestegaard

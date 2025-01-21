@@ -1,0 +1,17 @@
+c:\Afsluttende Opgave Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.exe
+c:\Afsluttende Opgave Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.deps.json
+c:\Afsluttende Opgave Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.runtimeconfig.json
+c:\Afsluttende Opgave Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.dll
+c:\Afsluttende Opgave Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.pdb
+c:\Afsluttende Opgave Lommeregner\Lommeregner\bin\Debug\net8.0\Spectre.Console.dll
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.csproj.AssemblyReference.cache
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.AssemblyInfoInputs.cache
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.AssemblyInfo.cs
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.csproj.CoreCompileInputs.cache
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommereg.69CC8419.Up2Date
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.dll
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\refint\Lommeregner.dll
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.pdb
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.genruntimeconfig.cache
+c:\Afsluttende Opgave Lommeregner\Lommeregner\obj\Debug\net8.0\ref\Lommeregner.dll

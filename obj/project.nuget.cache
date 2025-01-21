@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIe1lGL1x+c=",
+  "success": true,
+  "projectFilePath": "c:\\Afsluttende Opgave Lommeregner\\Lommeregner\\Lommeregner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasmu\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -25,7 +25,7 @@ void Log(string message)
 }
 
 //Method for getting user input
-int GetUserInput(String message)
+int GetUserInput(String message) //Her er jeg kommet til at lave et muligt endless loop, kan måske fikses med en timeout timer eller et FOR loop med et fastsat antal forsøg
 {try
 {
     Console.WriteLine(message);
